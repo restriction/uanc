@@ -1,14 +1,14 @@
-<p align="center">
-  <a href="https://github.com/0x00G"><img src="https://img.shields.io/github/followers/0x00G?style=for-the-badge"></img></a>
-  <a href="https://github.com/0x00G"><img src="https://img.shields.io/github/stars/0x00G?style=for-the-badge"></img></a>
-</p>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=49F7B6&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=hey%2C+it's+0x00G!;currently%3A+poking+at+windows+with+a+stick;currently%3A+studying+the+arcane+arts;currently%3A+spamming+F5+in+IDA;currently%3A+shadowboxing+security+solutions;currently%3A+succumbing+to+the+void;currently%3A+loitering+in+CPL%3D0;currently%3A+thumbing+through+grimoires+(SDMs))](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/0x00G"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-  <a href="https://github.com/0x00G"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://github.com/0x00G"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://github.com/0x00G"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-  <a href="https://github.com/0x00G"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-</p>
 
-<p align="center"><img src="https://i.imgur.com/Taqw6B7.png" alt=":0x00G" /></p>
+💬 **Me**: Offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering.
+
+🌱 **Projects**:
+
+- `💉` **`NiceRAT`**<br>
+\\___[ lightweight stealer integrated with webhooks<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `py`, `bat`
+
+
+## `👨‍💻` DEVELOPMENT
+[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
