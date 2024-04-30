@@ -1,4 +1,5 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=FFFFF&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=hey%2C+it's+0x00G!;currently%3A+poking+at+windows+with+a+stick;currently%3A+studying+the+arcane+arts;currently%3A+spamming+F5+in+IDA;currently%3A+shadowboxing+security+solutions;currently%3A+succumbing+to+the+void;currently%3A+loitering+in+CPL%3D0;currently%3A+thumbing+through+grimoires+(SDMs))](https://git.io/typing-svg)
+
+![bg_github_final](https://github.com/0x00G/0x00G/assets/114768995/1a48a495-9e41-4e7d-ae7f-a7a5bb18f0b1)
 
 
 💬 **Me**: Offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering.
