@@ -14,6 +14,7 @@ Malware is not only about viruses — companies preinstall it all the time.
 \\___[ lightweight RAT, stealer integrated with webhooks<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `py`, `bat`
 
+
 ## `👨‍💻` Development
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
 <p align="center">
