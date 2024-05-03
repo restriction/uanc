@@ -1,6 +1,7 @@
 <div align="center">
 
-![bg_github_final](https://github.com/0x00G/0x00G/assets/114768995/1a48a495-9e41-4e7d-ae7f-a7a5bb18f0b1)
+![bg_github_2](https://github.com/uanc/uanc/assets/114768995/be80c21b-4150-4e3f-8b72-d116ebd74ba1)
+
 ## 🍭 Join me for a Quick Introduction!
 Malware is not only about viruses — companies preinstall it all the time.
 
