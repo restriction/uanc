@@ -11,8 +11,8 @@ Malware is not only about viruses — companies preinstall it all the time.
 
 ## 📦 Projects
 
-- `💉` **`NiceRAT`**<br>
-\\___[ lightweight RAT, stealer integrated with webhooks<br>
+- `💉` **`NiceGUI`**<br>
+\\___[ lightweight APP<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `py`, `bat`
 
 ## `👨‍💻` Development
